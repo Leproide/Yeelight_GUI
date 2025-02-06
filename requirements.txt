@@ -1,0 +1,2 @@
+Pillow==11.1.0
+yeelight==0.5.4
