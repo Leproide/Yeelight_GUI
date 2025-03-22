@@ -12,7 +12,7 @@ A Python GUI application to control Yeelight smart bulbs over LAN with advanced 
 - 🌡️ Color temperature control
 - 💡 Brightness adjustment
 - 🎨 RGB color selection (color wheel and dialog picker)
-- 🌙 Night mode with custom effects
+- 🌙 Night mode with custom effects (Works better on ceiling light)
 - ☀️ Day mode preset
 - ⚡ Power toggle
 - 💾 Automatic configuration saving
